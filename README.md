@@ -104,28 +104,6 @@ precio_base * horas + (cilindrada * 0.5)
 - Propiedades (`@property`)
 - Manejo de excepciones (`try/except`)
 
----
-
-## Ejecución
-
-### Requisitos
-
-- Python 3.10 o superior
-
-### Ejecutar el programa
-
-```bash
-python main.py
-```
-
-o
-
-```bash
-python3 main.py
-```
-
----
-
 ## Menú Principal
 
 ```text
